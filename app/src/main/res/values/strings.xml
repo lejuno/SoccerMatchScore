@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Soccer Match Score</string>
+    <string name="sHomeTeam">Home</string>
+    <string name="sAwayTeam">Away</string>
+    <string name="sNewMatch">New Match</string>
+    <string name="sInitialScore">0</string>
+    <string name="sGoal">Goal</string>
+    <string name="sSubstitutionRemaining">Substitution Left</string>
+    <string name="sSubstitutePlayer">Change Player</string>
+    <string name="sSubstitutionTotal">3/3</string>
+</resources>
